@@ -4,4 +4,7 @@
  */
 
 "use strict";
+angular.module('MoviesApp', [])
+	.controller('MoviesController', function($scope) {
 
+	});
